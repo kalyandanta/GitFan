@@ -17,7 +17,7 @@ public class DesktopApplication {
   public void Desktop2() throws FindFailed {
 	 
 	  s.click("C:\\Users\\dshan\\OneDrive\\Pictures\\IE.png");
-	  s.click("D:\\Start.PNG");
+	  
 	  
 	  
 	  
